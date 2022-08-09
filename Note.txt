@@ -1,0 +1,5 @@
+npm install react-router-dom@6
+npm install 
+npm install react
+npm install redux
+npm install react-redux redux
